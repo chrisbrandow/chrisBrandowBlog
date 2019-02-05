@@ -3,6 +3,9 @@ title: "Formatting_test_posting"
 date: 2019-02-04T21:19:00-08:00
 categories: ["docs", "shortcodes", "index"]
 draft: false
+
+weight: 1
+
 ---
 
 
