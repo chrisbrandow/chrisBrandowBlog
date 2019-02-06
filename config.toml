@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "/"
-title = "Jane - A super concise theme for Hugo"
+title = "Chemist Coding iOS"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
