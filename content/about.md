@@ -10,7 +10,7 @@ comment: false
 mathjax: false
 ---
 
-This site is a Hugo static site engine written in Go.
+This site is a Hugo static site engine written in Gox.
 
 It is styled with the [Jane theme](https://github.com/xianmin/hugo-theme-jane).
 

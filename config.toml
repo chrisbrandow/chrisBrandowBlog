@@ -52,7 +52,7 @@ defaultContentLanguage = "en"           # Default language to use
   name = "Readings"
   weight = 40
   identifier = "categories"
-  url = "/Readings.md"
+  url = "content/Readings.md"
 
 
 [params]
