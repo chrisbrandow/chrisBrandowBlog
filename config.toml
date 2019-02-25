@@ -45,14 +45,11 @@ theme = "hyde-hyde"
 [params.social]
     github = "chrisbrandow"
     instagram = "chrisbrandow"
-#    xing = "<username>"
     linkedin = "chrisbrandow"
     twitter = "chrisbrandow"
 #    facebook = "<username>"
-    stackoverflow = "chrisbrandow"
-#    telegram = "<username>"
+    stackoverflow = "chris-brandow"
     email = "chrisbrandow@gmail.com"
-    # gravatar = "your-email@example.com"
 
 ## Main Menu
 [[menu.main]]
