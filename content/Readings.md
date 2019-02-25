@@ -12,6 +12,9 @@ mathjax: false
 
 ### These are books I've read in 2018
 
-The Fifth Risk
+The Fifth Risk - Michael Lewis
+Void Moon - Michael Connely
+
 
 ### These are books I'd like to read soon
+
