@@ -48,11 +48,6 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "Readings"
-  weight = 40
-  identifier = "categories"
-  url = "content/Readings.md"
 
 
 [params]
