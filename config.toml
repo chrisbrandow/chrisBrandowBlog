@@ -43,15 +43,15 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
+    github = "chrisbrandow"
+    instagram = "chrisbrandow"
+#    xing = "<username>"
+    linkedin = "chrisbrandow"
+    twitter = "chrisbrandow"
+#    facebook = "<username>"
+    stackoverflow = "chrisbrandow"
+#    telegram = "<username>"
+    email = "chrisbrandow@gmail.com"
     # gravatar = "your-email@example.com"
 
 ## Main Menu
@@ -60,8 +60,3 @@ theme = "hyde-hyde"
     weight = 100
     identifier = "posts"
     url = "/posts/"
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
