@@ -10,12 +10,19 @@ comment: false
 mathjax: false
 ---
 
+I am really trying to read more. This is at least in part because I want to spend less time on my phone. I figure that this would be easier if I have something else to replace it with that is less mentally consuming and distracting.
+
 ### These are books I've read in 2018
 
 The Fifth Risk - Michael Lewis
 Void Moon - Michael Connely
+Creative Selection - Ken Kocienda
+Bosch & Waller - Michael Connely
 
-
-### These are books I'd like to read soon
+### These are books that are nominally in progress
 
 Heirs Of The Founders - H.W. Brands
+Digital Minimalism - Cal Newport
+The Power Of One - Bryce Courtenay
+
+### These are books I'd like to read soon
