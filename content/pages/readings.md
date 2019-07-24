@@ -18,10 +18,11 @@ The Fifth Risk - Michael Lewis
 Void Moon - Michael Connely
 Creative Selection - Ken Kocienda
 Bosch & Waller - Michael Connely
+Heirs Of The Founders - H.W. Brands
+Digital Fortress - Dan Brown
 
 ### These are books that are nominally in progress
 
-Heirs Of The Founders - H.W. Brands
 Digital Minimalism - Cal Newport
 The Power Of One - Bryce Courtenay
 
