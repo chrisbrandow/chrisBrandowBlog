@@ -19,7 +19,8 @@ Please understand that I'm not "proud" of all the books on this list. However, I
 The Fifth Risk - Michael Lewis  
 Void Moon - Michael Connely  
 Creative Selection - Ken Kocienda  
-Bosch & Waller - Michael Connely  
+Bosch & Waller - Michael Connely
+How I Helped OJ Get Away With Murder - Mike Gilbert    
 Heirs Of The Founders - H.W. Brands  
 Digital Fortress - Dan Brown
 The Girl With The Dragon Tattoo - Stieg Larson  
