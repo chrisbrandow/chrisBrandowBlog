@@ -26,8 +26,9 @@ The Girl With The Dragon Tattoo - Stieg Larson
 
 ### These are books that are nominally in progress
 
-Digital Minimalism - Cal Newport
-The Power Of One - Bryce Courtenay
-John Muir, A Naturalist In Southern California - Elizabeth Pomeroy
+Digital Minimalism - Cal Newport  
+The Power Of One - Bryce Courtenay  
+John Muir, A Naturalist In Southern California - Elizabeth Pomeroy  
+Undaunted Courage - Stephen Ambrose
 
 ### These are books I'd like to read soon
