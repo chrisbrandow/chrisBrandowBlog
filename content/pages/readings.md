@@ -21,11 +21,13 @@ Void Moon - Michael Connely
 Creative Selection - Ken Kocienda  
 Bosch & Waller - Michael Connely  
 Heirs Of The Founders - H.W. Brands  
-Digital Fortress - Dan Brown  
+Digital Fortress - Dan Brown
+The Girl With The Dragon Tattoo - Stieg Larson  
 
 ### These are books that are nominally in progress
 
 Digital Minimalism - Cal Newport
 The Power Of One - Bryce Courtenay
+John Muir, A Naturalist In Southern California - Elizabeth Pomeroy
 
 ### These are books I'd like to read soon
