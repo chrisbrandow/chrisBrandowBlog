@@ -1,10 +1,8 @@
 ---
-title: "Recursive_descent"
+title: "Recursive Descent Parsing - Part 1"
 date: 2020-05-05T09:31:10-07:00
 draft: false
 ---
-
-# Recursive Descent Parsing - Part 1
 
 ### The problem with the introductions that I have read
 

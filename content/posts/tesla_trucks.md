@@ -1,10 +1,9 @@
 ---
-title: "Tesla_trucks"
+title: "The Tesla Truck Is Primarily A Luxury Truck"
+
 date: 2019-12-11T08:51:55-08:00
 draft: false
 ---
-
-# Tesla Trucks Is Mostly A Luxury Truck
 
 I write this as an enormous admirer of what Elon Musk is accomplishing with Tesla, though I'm not actaully a Tesla owner.
 
