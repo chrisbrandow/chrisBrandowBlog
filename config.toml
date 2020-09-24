@@ -4,7 +4,6 @@ languageCode = "en"
 
 title = "Chemist Coding iOS"
 theme = "hyde-hyde"
-
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
 # googleAnalytics = "your-google-analytics-id"
