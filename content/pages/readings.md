@@ -25,11 +25,14 @@ Heirs Of The Founders - H.W. Brands
 Digital Fortress - Dan Brown
 The Girl With The Dragon Tattoo - Stieg Larson  
 Undaunted Courage - Stephen Ambrose
+John Muir, A Naturalist In Southern California - Elizabeth Pomeroy  
+
+### These Are The Books That I've Read In 2020
+The Price Of Peace - Zachary D. Carter
 
 ### These are books that I Am Nominally Reading Right Now
 
 Digital Minimalism - Cal Newport  
 The Power Of One - Bryce Courtenay  
-John Muir, A Naturalist In Southern California - Elizabeth Pomeroy  
 
 ### These are books I'd like to read soon
