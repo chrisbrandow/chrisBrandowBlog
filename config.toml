@@ -56,3 +56,8 @@ theme = "hyde-hyde"
     weight = 100
     identifier = "posts"
     url = "/posts/"
+[[menu.main]]
+    name = "Test"
+    weight = 100
+    identifier = "test"
+    url = "/test/"
