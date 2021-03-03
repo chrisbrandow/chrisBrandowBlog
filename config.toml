@@ -60,4 +60,5 @@ theme = "hyde-hyde"
     name = "Personal Posts"
     weight = 100
     identifier = "personal_posts"
-    url = "/personal_posts/"
+    url = "/general_posts/"
+    title = "Personal Posts"
