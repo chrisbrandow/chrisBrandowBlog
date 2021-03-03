@@ -52,7 +52,7 @@ theme = "hyde-hyde"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
+    name = "Technical Posts"
     weight = 100
     identifier = "posts"
     url = "/posts/"

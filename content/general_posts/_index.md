@@ -1,3 +1,3 @@
 ---
-title: "Technical Posts"
+title: "Personal"
 ---
