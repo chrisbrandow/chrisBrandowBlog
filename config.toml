@@ -18,7 +18,7 @@ theme = "hyde-hyde"
     author = "Christopher Brandow"
     title = "Chemist Coding iOS"
     # description = "..."
-    authorimage = "static/img/icon.png"
+    authorimage = "/static/img/icon.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
