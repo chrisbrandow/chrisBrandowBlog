@@ -1,7 +1,7 @@
 ---
 title: "I Noticed Something At Walmart"
 date: 2021-03-29T11:59:27-07:00
-draft: true
+draft: false
 ---
 
 As a fully esconced member of the Left Coast Elite, I am mostly exactly what you'd expect in terms of politics, etc. As such, I basically only go to Target for my general, non-grocery shopping, rather than Walmart. This has primarily been an issue of proximity. The nearest Walmart is 20 minutes away, rather than 7 for Target. But, let's be real, I also prefer Target.
