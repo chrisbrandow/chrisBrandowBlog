@@ -19,7 +19,7 @@ Please understand that I'm not "proud" of all the books on this list. However, I
 The Fifth Risk - Michael Lewis  
 Void Moon - Michael Connely  
 Creative Selection - Ken Kocienda  
-Bosch & Waller - Michael Connely
+Bosch & Waller - Michael Connely  
 How I Helped OJ Get Away With Murder - Mike Gilbert    
 Heirs Of The Founders - H.W. Brands  
 Digital Fortress - Dan Brown
@@ -27,7 +27,8 @@ The Girl With The Dragon Tattoo - Stieg Larson
 Undaunted Courage - Stephen Ambrose
 John Muir, A Naturalist In Southern California - Elizabeth Pomeroy  
 
-### These Are The Books That I've Read In 2020
+### These Are The Books That I've Read In 2020 
+
 The Price Of Peace - Zachary D. Carter
 
 ### 2021 Reads
@@ -36,9 +37,9 @@ The High Window - Raymond Chandler
 
 ### These are books that I Am Nominally Reading Right Now
 
-Scout Mindset - Julia Galef
-Bomber Mafia - Malcolm Gladwell
-More Raymond Chandler
+Scout Mindset - Julia Galef  
+Bomber Mafia - Malcolm Gladwell  
+More Raymond Chandler   
 
 
 ### These are books I'd like to read soon
