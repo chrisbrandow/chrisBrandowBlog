@@ -30,9 +30,15 @@ John Muir, A Naturalist In Southern California - Elizabeth Pomeroy
 ### These Are The Books That I've Read In 2020
 The Price Of Peace - Zachary D. Carter
 
+### 2021 Reads
+
+The High Window - Raymond Chandler
+
 ### These are books that I Am Nominally Reading Right Now
 
-Digital Minimalism - Cal Newport  
-The Power Of One - Bryce Courtenay  
+Scout Mindset - Julia Galef
+Bomber Mafia - Malcolm Gladwell
+More Raymond Chandler
+
 
 ### These are books I'd like to read soon
