@@ -1,5 +1,5 @@
 ---
-title: "Life Lesson"
+title: "Life Lessons"
 date: 2021-05-04T08:50:12-07:00
 draft: false
 menu: "main"
